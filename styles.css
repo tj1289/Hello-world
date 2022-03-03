@@ -1,19 +1,8 @@
   body {
     background-color: #FFFBE9;
     margin: 6%;
+    font:normal 12px verdana;
    }
-
-  h1 {
-    color: #E3CAA5;
-   }
-
-  h2 {
-    color: #E3CAA5;
-    }
-
-  h3 {
-    color: #E3CAA5;
-     }
 
   hr {
       border-style: dotted none none none;
@@ -21,6 +10,21 @@
       width: 10%;
       border-color: #CEAB93;
       }
+
+  h1 {
+    color: #E3CAA5;
+   }
+
+  a:hover {
+    text-decoration: underline;
+   }
+  
+  h5 {
+    color: #E3CAA5;
+    text-decoration: underline none;
+     }
+
+
   
    li {
       color: #AD8B73;
