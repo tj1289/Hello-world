@@ -15,11 +15,11 @@
     color: #E3CAA5;
    }
 
-  a:hover {
+  h3:hover {
     text-decoration: underline;
    }
   
-  h5 {
+  h3 {
     color: #E3CAA5;
     text-decoration: underline none;
      }
