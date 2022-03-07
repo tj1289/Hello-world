@@ -1,5 +1,5 @@
 body {
-    background-color: #FFFBE9;
+    background-color: beige;
     margin: 6%;
     font:normal 12px verdana;
   }
@@ -36,9 +36,18 @@ p {
     color: #AD8B73;
   }
     
+.topdiv {
+  background-color: #FFFBE9;
+} 
     
-    
-/**********class selectors vs tag selectors*****************/
+.middiv {
+  Background-color: #FFFBE9;
+}
 
-/* .bacon */
+.botdiv {
+  background-color: #FFFBE9;
+}
 
+div {
+  padding: 20px;
+}
