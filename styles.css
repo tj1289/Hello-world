@@ -1,7 +1,6 @@
 body {
     background-color: beige;
-    margin: 6%;
-    font:normal 12px verdana;
+    font:100% georgia;
   }
 
 hr {
@@ -15,17 +14,9 @@ h1 {
     color: #E3CAA5;
   }
 
-a:hover {
-    text-decoration: underline;
-  }
  
-a {
-    text-decoration: underline none;
-  }
-
 h3 {
     color: #E3CAA5;
-    text-decoration: underline none;
   }
 
 li {
@@ -49,5 +40,6 @@ p {
 }
 
 div {
-  padding: 20px;
+  padding: 7%;
+  Margin: 7%;
 }
